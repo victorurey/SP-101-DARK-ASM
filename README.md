@@ -143,3 +143,10 @@ DARK-ASM-SYSTEM-ARCHITECTURE
 │   │   ├── packs/                          # Query packs (vulns, processes, network)
 │   │   └── logs/                           # Real-time or differential logs
 └── └──
+```
+# Additional Documentation
+* Nmap documentation - [View](https://nmap.org/docs.html)
+* Openvas documentionn - [View](https://www.greenbone.net/en/documents/)
+* Osquery documentation - [View](https://osquery.readthedocs.io/en/latest/)
+* Shodan documentation - [View](https://developer.shodan.io/api)
+* Graylog documentation - [View](https://go2docs.graylog.org/current/home.htm)
