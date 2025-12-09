@@ -75,3 +75,10 @@ Verify status
 ```bash
 sudo systemctl status osqueryi
 ```
+
+## Final System Check
+Check for all services to be active and running
+```bash
+sudo systemctl status gvmd gsad ospd-openvas osqueryd
+```
+
