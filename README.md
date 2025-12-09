@@ -144,6 +144,9 @@ DARK-ASM-SYSTEM-ARCHITECTURE
 │   │   └── logs/                           # Real-time or differential logs
 └── └──
 ```
+# GitHub Note
+Because of the nature of virtual machines, source code is not available or useful in the ways that this project requires. VM states are great ways to track project progress but unfortunately GitHub does not support files of this size. Virtual Machine snapshots are available upon request.
+
 # Additional Documentation
 * Nmap documentation - [View](https://nmap.org/docs.html)
 * Openvas documentionn - [View](https://www.greenbone.net/en/documents/)
