@@ -1,4 +1,4 @@
-# DARK Attack Surface Management
+# TEAM DARK Attack Surface Management
 Attack Surface Management (ASM) is an approach to identifying, monitoring, and reducing entry points available to attackers. It aims to track processes running on web servers, cloud services, APIs, and internal systems that may be inadvertently exposed.
 
 # Features
